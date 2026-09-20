@@ -2,7 +2,7 @@
 -- Title: Create the StudentEnrollments database
 -- Desc: Drops and create the StudentEnrollments database
 -- Change Log: When,Who,What
--- 2022-11-16,RRoot,Created File
+-- 2025-11-16,Solsen,Created File
 --**************************************************************************--
 Set NoCount On;
 
